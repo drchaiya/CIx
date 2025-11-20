@@ -52,5 +52,6 @@ Healthcare (diagnosis support)
 Legal/Compliance (regulatory summarization)
 Finance (algorithmic trading logic)
 The \boldsymbol{CIx} is intended to be implemented as a post-hoc diagnostic safety check that triggers guardrails (regeneration, formal warnings) based on defined, domain-specific thresholds for both the \boldsymbol{CIx} vector and the \boldsymbol{R}-Score.
+
 Collaboration
 This work is presented as an open-access contribution. We formally invite researchers, engineers, and organizations to collaborate in the empirical validation, thresholding, and advanced implementation of the \boldsymbol{CIx} to advance the field of LLM integrity measurement.
